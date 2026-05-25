@@ -3,8 +3,8 @@
 Análisis de ventas de una cafetería con foco en productos, patrones temporales y comportamiento de pago. Desarrollado en Power BI sobre dataset de Kaggle.
 
 ## 📊 Vista previa
-![Dashboard Overview](screenshot/coffee conv 1.png)
-![Heatmap Hora x Día](screenshot/coffee conv 2.png)
+![Dashboard Overview](screenshot/coffee1.png)
+![Heatmap Hora x Día](screenshot/coffee2.png)
 
 ## 🎯 Preguntas de negocio respondidas
 
