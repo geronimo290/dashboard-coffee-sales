@@ -37,4 +37,4 @@ Análisis de ventas de una cafetería con foco en productos, patrones temporales
 
 ---
 
-**Gerónimo Pautazzo** · [LinkedIn](https://www.linkedin.com/in/gero-pautazzo-88900325a/) · [Portfolio completo](https://github.com/geronimo290)
+**Gerónimo Pautazzo** · [LinkedIn](https://www.linkedin.com/in/geronimo-pautazzo-88900325a/) · [Portfolio completo](https://github.com/geronimo290)
