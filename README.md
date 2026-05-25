@@ -4,8 +4,8 @@ Análisis de ventas de una cafetería con foco en productos, patrones temporales
 
 ## 📊 Vista previa
 
-![Dashboard Overview](screenshots/coffee conv 1.jpeg)
-![Heatmap Hora x Día](screenshots/coffee conv 2.jpeg)
+![Dashboard Overview](screenshots/coffee conv 1.png)
+![Heatmap Hora x Día](screenshots/coffee conv 2.png)
 
 ## 🎯 Preguntas de negocio respondidas
 
